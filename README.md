@@ -172,5 +172,5 @@ Special thanks to contributors and testers 💙
 [CSE 1200 Project: Errand Day](https://youtu.be/SEqIaYd83fE)
 
 ## Project Report
-[Project Report: Errand Day](https://drive.google.com/drive/folders/1LF5RfOt1Px_mGrsNtmUbi8xpzP0r8mRv)
+[Project Report: Errand Day](https://drive.google.com/file/d/1ajsUnF63isV43cp7crAiSWwnwTye-YzB/view)
 
