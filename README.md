@@ -168,3 +168,9 @@ Special thanks to contributors and testers 💙
 ### **Character**
 <img src="https://github.com/mdanwarulazim/Errand-Day/blob/main/Errand%20Day/Assets/game/car.png" width="157" height="169">
 
+## Youtube Link
+[CSE 1200 Project: Errand Day](https://youtu.be/SEqIaYd83fE)
+
+## Project Report
+[Project Report: Errand Day](https://drive.google.com/drive/folders/1LF5RfOt1Px_mGrsNtmUbi8xpzP0r8mRv)
+
